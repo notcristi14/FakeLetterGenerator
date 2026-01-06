@@ -33,5 +33,4 @@ The application maps standard ASCII characters to specific high-range Unicode bl
 - **Encoding**: Must be opened with UTF-8 compatible editors (VS Code, Notepad, etc.) to view correctly.
 
 ## 📸 Preview
-
-![FakeLetterGenerator UI]<img width="1115" height="628" alt="Screenshot 2026-01-06 115340" src="https://github.com/user-attachments/assets/5056eec5-7bf6-4036-a84a-ffcbd36b5c86" />
+<img width="1115" height="628" alt="Screenshot 2026-01-06 115340" src="https://github.com/user-attachments/assets/5056eec5-7bf6-4036-a84a-ffcbd36b5c86" />
