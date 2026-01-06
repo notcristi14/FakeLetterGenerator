@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FakeLetterGenerator/1.0.0": {
+        "runtime": {
+          "FakeLetterGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FakeLetterGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

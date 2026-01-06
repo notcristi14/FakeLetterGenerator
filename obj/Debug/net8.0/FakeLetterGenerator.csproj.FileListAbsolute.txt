@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FakeLetterGenerator\bin\Debug\net8.0\FakeLetterGenerator.exe
+C:\Users\User\source\repos\FakeLetterGenerator\bin\Debug\net8.0\FakeLetterGenerator.deps.json
+C:\Users\User\source\repos\FakeLetterGenerator\bin\Debug\net8.0\FakeLetterGenerator.runtimeconfig.json
+C:\Users\User\source\repos\FakeLetterGenerator\bin\Debug\net8.0\FakeLetterGenerator.dll
+C:\Users\User\source\repos\FakeLetterGenerator\bin\Debug\net8.0\FakeLetterGenerator.pdb
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.dll
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\refint\FakeLetterGenerator.dll
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.pdb
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\FakeLetterGenerator.genruntimeconfig.cache
+C:\Users\User\source\repos\FakeLetterGenerator\obj\Debug\net8.0\ref\FakeLetterGenerator.dll
